@@ -1,2 +1,2 @@
 # Housing-Data-Analysis
-Housing Data Analysis Description
+The objective is to develop a machine learning model to predict housing prices in California using California Census Data. This dataset includes metrics such as population, median income, and median housing prices. Initially, the data was largely unprocessed, requiring significant effort in cleaning and preprocessing to prepare it for analysis. Various models, including Linear Regression, Decision Tree Regressor, and Random Forest Regressor, were applied to evaluate predictive performance.
